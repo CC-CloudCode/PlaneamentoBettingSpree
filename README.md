@@ -11,6 +11,10 @@
 | a80426 | Guilherme Marques Andrade                        | [guiandrade2](https://github.com/guiandrade2)       |   <img src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-9/18010703_1526580520706449_2432693347746207007_n.jpg?_nc_cat=106&ccb=2&_nc_sid=09cbfe&_nc_ohc=SNkROaPEM2YAX8JX52R&_nc_ht=scontent.flis7-1.fna&oh=c1fb063f7c9c5e82d7e797dbf23f7d18&oe=5FCBB264" alt="alt text" width="120" height="120">   |
 | a82617 | Shahzod Yusupov                                  | [47Balboa](https://github.com/47Balboa)          |   <img src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-9/15589911_1354511281274649_375999130785960548_n.jpg?_nc_cat=111&ccb=2&_nc_sid=174925&_nc_ohc=BxpalEbwfvkAX-lLI5z&_nc_ht=scontent.flis7-1.fna&oh=cb1c1667dd59210a3f15d44f4f3fc394&oe=5FCB8CED" alt="alt text" width="120" height="170">   |
 
+# Apresentação Técnica
+
+## https://docs.google.com/presentation/d/1aBrhRmk8B65Ca1atvitJl2A12CBiWIjC9N_aaUhzlJo/edit#slide=id.p
+
 # Relatório Geral
 
 ## https://www.overleaf.com/6785461355zvmzxqnbwtbp
